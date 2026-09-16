@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-I am a Software Engineer. I am currently learning Data Science and AI.
+I am a Software Engineer with 2+ years of experience. I am currently working on my fundamentals.
+
 
 Current Skills
 - Python
 - Java
 - SQL
+
+
 
 <!--
 **HmLoke/HmLoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
